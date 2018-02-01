@@ -1,5 +1,5 @@
-Your list of feeds to search and parse goes here.
-Sample feeds:
+#----Your list of feeds to search and parse goes here.----#
+#----Sample feeds:----#
 http://adho.org/rss.xml
 https://www.cni.org/feed
 https://blog.archive.org/feed/
